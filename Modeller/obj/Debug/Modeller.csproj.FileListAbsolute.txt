@@ -1,0 +1,7 @@
+C:\Users\KHNYAZILIM02\Documents\Visual Studio 2015\Projects\Alisveris2\Modeller\bin\Debug\Modeller.dll
+C:\Users\KHNYAZILIM02\Documents\Visual Studio 2015\Projects\Alisveris2\Modeller\bin\Debug\Modeller.pdb
+C:\Users\KHNYAZILIM02\Documents\Visual Studio 2015\Projects\Alisveris2\Modeller\bin\Debug\Baglanti.dll
+C:\Users\KHNYAZILIM02\Documents\Visual Studio 2015\Projects\Alisveris2\Modeller\bin\Debug\Baglanti.pdb
+C:\Users\KHNYAZILIM02\Documents\Visual Studio 2015\Projects\Alisveris2\Modeller\obj\Debug\Modeller.csprojResolveAssemblyReference.cache
+C:\Users\KHNYAZILIM02\Documents\Visual Studio 2015\Projects\Alisveris2\Modeller\obj\Debug\Modeller.dll
+C:\Users\KHNYAZILIM02\Documents\Visual Studio 2015\Projects\Alisveris2\Modeller\obj\Debug\Modeller.pdb

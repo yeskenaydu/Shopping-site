@@ -1,0 +1,5 @@
+C:\Users\KHNYAZILIM02\Documents\Visual Studio 2015\Projects\Alisveris2\Baglanti\bin\Debug\Baglanti.dll
+C:\Users\KHNYAZILIM02\Documents\Visual Studio 2015\Projects\Alisveris2\Baglanti\bin\Debug\Baglanti.pdb
+C:\Users\KHNYAZILIM02\Documents\Visual Studio 2015\Projects\Alisveris2\Baglanti\obj\Debug\Baglanti.csprojResolveAssemblyReference.cache
+C:\Users\KHNYAZILIM02\Documents\Visual Studio 2015\Projects\Alisveris2\Baglanti\obj\Debug\Baglanti.dll
+C:\Users\KHNYAZILIM02\Documents\Visual Studio 2015\Projects\Alisveris2\Baglanti\obj\Debug\Baglanti.pdb
